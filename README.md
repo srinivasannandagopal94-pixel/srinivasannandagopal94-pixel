@@ -1,7 +1,7 @@
 # Hi 👋 I'm Srinivasan
 
 <p align="center">
-  <img src="WIN_20260104_13_46_06_Pro.jpg" width="200" style="border-radius:50%">
+  <img src="WIN_20260104_13_46_06_Pro.jpg" width="220" style="border-radius:50%">
 </p>
 
 🎓 Data Analytics Student

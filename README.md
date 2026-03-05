@@ -1,5 +1,7 @@
 # Hi 👋 I'm Srinivasan
 
+![Profile Picture](WIN_20260104_13_46_06_Pro.jpg)
+
 🎓 Data Analytics Student
 📊 Passionate about turning data into insights
 🚀 Building my Data Analytics portfolio

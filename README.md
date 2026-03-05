@@ -38,8 +38,7 @@ This project focuses on analyzing a dataset and discovering insights using data 
 * Python
 
 🔗 Project Repository:
-https://github.com/srinivasannandagopal94-pixel/Personal
-
+https://github.com/srinivasannandagopal94-pixel/E-commerce-Store-Analysis-Capstone-project
 ---
 
 ## 🌱 Currently Learning

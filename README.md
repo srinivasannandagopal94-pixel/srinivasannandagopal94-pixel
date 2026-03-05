@@ -1,6 +1,8 @@
 # Hi 👋 I'm Srinivasan
 
-![Profile Picture](WIN_20260104_13_46_06_Pro.jpg)
+<p align="center">
+  <img src="WIN_20260104_13_46_06_Pro.jpg" width="200" style="border-radius:50%">
+</p>
 
 🎓 Data Analytics Student
 📊 Passionate about turning data into insights
